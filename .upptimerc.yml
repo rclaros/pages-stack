@@ -19,8 +19,8 @@ status-website:
   baseUrl: /pages-stack
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Current status by service"
-  introMessage: "Tracing the status of services every 10 minutes"
+  introTitle: "Current status by services"
+  introMessage: "Track the status of your services easily"
   navbar:
     - title: Status
       href: /
