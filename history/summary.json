@@ -60,7 +60,7 @@
     "url": "https://sotechcloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -72,6 +72,7 @@
     "timeMonth": 1488,
     "timeYear": 1476,
     "dailyMinutesDown": {
+      "2023-01-11": 0,
       "2022-12-12": 17
     }
   }
