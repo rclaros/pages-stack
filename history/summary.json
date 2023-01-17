@@ -22,19 +22,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 132,
-    "timeWeek": 195,
-    "timeMonth": 219,
-    "timeYear": 205,
+    "time": 207,
+    "timeDay": 207,
+    "timeWeek": 213,
+    "timeMonth": 223,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-01-17": 0
+      "2023-01-17": 5
     }
   },
   {
@@ -64,7 +64,7 @@
     "slug": "sotechcloud",
     "status": "up",
     "uptime": "87.14%",
-    "uptimeDay": "14.04%",
+    "uptimeDay": "14.41%",
     "uptimeWeek": "5.35%",
     "uptimeMonth": "78.22%",
     "uptimeYear": "87.14%",
