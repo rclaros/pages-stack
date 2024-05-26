@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 75,
-    "timeWeek": 116,
-    "timeMonth": 163,
+    "timeDay": 77,
+    "timeWeek": 115,
+    "timeMonth": 156,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-05-01": 31
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 185,
-    "timeWeek": 206,
-    "timeMonth": 197,
-    "timeYear": 200,
+    "time": 204,
+    "timeDay": 867,
+    "timeWeek": 311,
+    "timeMonth": 222,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -47,12 +47,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.90%",
+    "uptimeYear": "89.93%",
     "time": 860,
-    "timeDay": 514,
-    "timeWeek": 381,
-    "timeMonth": 428,
-    "timeYear": 704,
+    "timeDay": 506,
+    "timeWeek": 421,
+    "timeMonth": 434,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2024-03-26": 173,
       "2024-03-25": 1440,
@@ -98,8 +98,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   },
   {
@@ -109,17 +108,16 @@
     "slug": "sotechcloud",
     "status": "up",
     "uptime": "70.53%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "16.88%",
-    "uptimeMonth": "22.06%",
-    "uptimeYear": "68.14%",
-    "time": 1985,
-    "timeDay": 6865,
-    "timeWeek": 5719,
-    "timeMonth": 3478,
-    "timeYear": 2091,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "18.54%",
+    "uptimeMonth": "22.07%",
+    "uptimeYear": "68.17%",
+    "time": 1988,
+    "timeDay": 7119,
+    "timeWeek": 5127,
+    "timeMonth": 3550,
+    "timeYear": 2094,
     "dailyMinutesDown": {
-      "2024-05-25": 5,
       "2024-05-24": 1017,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -236,8 +234,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   }
 ]
