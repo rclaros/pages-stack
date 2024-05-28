@@ -6,17 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 192,
-    "timeWeek": 143,
+    "timeDay": 210,
+    "timeWeek": 139,
     "timeMonth": 154,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2024-05-27": 5,
       "2024-05-01": 31
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 204,
-    "timeWeek": 312,
-    "timeMonth": 224,
+    "timeDay": 142,
+    "timeWeek": 299,
+    "timeMonth": 222,
     "timeYear": 202,
     "dailyMinutesDown": {}
   },
@@ -44,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotech.com.pe.ico",
     "slug": "sotech",
     "status": "up",
-    "uptime": "92.24%",
+    "uptime": "92.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.38%",
-    "time": 857,
-    "timeDay": 455,
-    "timeWeek": 452,
-    "timeMonth": 437,
-    "timeYear": 702,
+    "uptimeYear": "90.48%",
+    "time": 853,
+    "timeDay": 243,
+    "timeWeek": 414,
+    "timeMonth": 428,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2024-03-26": 173,
       "2024-03-25": 1440,
@@ -97,8 +96,7 @@
       "2023-06-02": 229,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
-      "2023-05-30": 1440,
-      "2023-05-29": 1440
+      "2023-05-30": 1440
     }
   },
   {
@@ -107,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
     "status": "up",
-    "uptime": "70.62%",
+    "uptime": "70.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "41.99%",
+    "uptimeWeek": "47.11%",
     "uptimeMonth": "22.07%",
-    "uptimeYear": "68.62%",
+    "uptimeYear": "68.72%",
     "time": 1990,
-    "timeDay": 1910,
-    "timeWeek": 4591,
-    "timeMonth": 3541,
-    "timeYear": 2093,
+    "timeDay": 1645,
+    "timeWeek": 4170,
+    "timeMonth": 3499,
+    "timeYear": 2092,
     "dailyMinutesDown": {
       "2024-05-24": 1017,
       "2024-05-23": 1440,
@@ -232,8 +230,7 @@
       "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
-      "2023-05-30": 1440,
-      "2023-05-29": 1440
+      "2023-05-30": 1440
     }
   }
 ]
