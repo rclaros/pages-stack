@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 89,
-    "timeWeek": 133,
-    "timeMonth": 153,
+    "timeDay": 91,
+    "timeWeek": 125,
+    "timeMonth": 149,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2024-05-01": 31
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 27,
-    "timeWeek": 284,
-    "timeMonth": 217,
+    "timeDay": 192,
+    "timeWeek": 235,
+    "timeMonth": 218,
     "timeYear": 202,
     "dailyMinutesDown": {}
   },
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotech.com.pe.ico",
     "slug": "sotech",
     "status": "up",
-    "uptime": "92.26%",
+    "uptime": "92.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.76%",
-    "time": 851,
-    "timeDay": 221,
-    "timeWeek": 377,
-    "timeMonth": 419,
-    "timeYear": 700,
+    "uptimeYear": "91.03%",
+    "time": 852,
+    "timeDay": 596,
+    "timeWeek": 393,
+    "timeMonth": 431,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2024-03-26": 173,
       "2024-03-25": 1440,
@@ -94,8 +94,7 @@
       "2023-09-01": 1433,
       "2023-06-26": 19,
       "2023-06-02": 229,
-      "2023-06-01": 1440,
-      "2023-05-31": 1440
+      "2023-06-01": 1440
     }
   },
   {
@@ -104,16 +103,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
     "status": "up",
-    "uptime": "70.69%",
+    "uptime": "70.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.40%",
+    "uptimeWeek": "75.68%",
     "uptimeMonth": "22.07%",
-    "uptimeYear": "68.99%",
-    "time": 1991,
-    "timeDay": 1670,
-    "timeWeek": 3858,
-    "timeMonth": 3444,
-    "timeYear": 2090,
+    "uptimeYear": "69.27%",
+    "time": 1995,
+    "timeDay": 2380,
+    "timeWeek": 3693,
+    "timeMonth": 3516,
+    "timeYear": 2091,
     "dailyMinutesDown": {
       "2024-05-24": 1017,
       "2024-05-23": 1440,
@@ -227,8 +226,7 @@
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
-      "2023-06-01": 1440,
-      "2023-05-31": 1440
+      "2023-06-01": 1440
     }
   }
 ]
