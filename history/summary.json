@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 65,
-    "timeWeek": 75,
+    "timeDay": 73,
+    "timeWeek": 73,
     "timeMonth": 107,
     "timeYear": 120,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 150,
-    "timeWeek": 160,
-    "timeMonth": 196,
-    "timeYear": 201,
+    "time": 202,
+    "timeDay": 66,
+    "timeWeek": 140,
+    "timeMonth": 193,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotech.com.pe.ico",
     "slug": "sotech",
     "status": "up",
-    "uptime": "92.61%",
-    "uptimeDay": "98.96%",
+    "uptime": "92.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "91.89%",
-    "time": 832,
-    "timeDay": 481,
-    "timeWeek": 4372,
-    "timeMonth": 1738,
+    "time": 826,
+    "timeDay": 261,
+    "timeWeek": 4357,
+    "timeMonth": 1731,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2024-06-23": 15,
@@ -92,8 +92,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1433,
-      "2023-06-26": 19
+      "2023-09-01": 1433
     }
   },
   {
@@ -102,16 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
     "status": "up",
-    "uptime": "72.02%",
+    "uptime": "72.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.69%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "75.46%",
     "time": 2076,
-    "timeDay": 7277,
-    "timeWeek": 4012,
-    "timeMonth": 2967,
-    "timeYear": 2175,
+    "timeDay": 1634,
+    "timeWeek": 3608,
+    "timeMonth": 2975,
+    "timeYear": 2180,
     "dailyMinutesDown": {
       "2024-05-24": 1017,
       "2024-05-23": 1440,
@@ -203,8 +202,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1424,
-      "2023-06-26": 19
+      "2023-12-18": 1424
     }
   }
 ]
