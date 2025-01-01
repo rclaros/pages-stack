@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 137,
-    "timeWeek": 105,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "timeDay": 114,
+    "timeWeek": 108,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 31
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 199,
-    "timeWeek": 263,
+    "timeDay": 141,
+    "timeWeek": 224,
     "timeMonth": 235,
     "timeYear": 222,
     "dailyMinutesDown": {}
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "93.67%",
     "time": 727,
-    "timeDay": 322,
-    "timeWeek": 336,
+    "timeDay": 257,
+    "timeWeek": 328,
     "timeMonth": 959,
-    "timeYear": 819,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2024-12-06": 17,
       "2024-07-08": 870,
@@ -94,16 +94,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
     "status": "up",
-    "uptime": "75.26%",
+    "uptime": "75.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "71.26%",
-    "time": 2291,
-    "timeDay": 1923,
-    "timeWeek": 2108,
-    "timeMonth": 2126,
-    "timeYear": 2490,
+    "uptimeYear": "71.53%",
+    "time": 2294,
+    "timeDay": 1952,
+    "timeWeek": 2092,
+    "timeMonth": 2135,
+    "timeYear": 2488,
     "dailyMinutesDown": {
       "2024-12-06": 20,
       "2024-09-15": 1236,
@@ -209,8 +209,7 @@
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
-      "2024-01-03": 1440,
-      "2024-01-02": 1440
+      "2024-01-03": 1440
     }
   }
 ]
