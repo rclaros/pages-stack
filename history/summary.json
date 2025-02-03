@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 91,
-    "timeWeek": 128,
-    "timeMonth": 129,
+    "timeDay": 123,
+    "timeWeek": 126,
+    "timeMonth": 130,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-05-01": 31
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 201,
-    "timeWeek": 175,
-    "timeMonth": 194,
-    "timeYear": 224,
+    "timeDay": 178,
+    "timeWeek": 176,
+    "timeMonth": 186,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -43,13 +43,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotech.com.pe.ico",
     "slug": "sotech",
     "status": "up",
-    "uptime": "94.11%",
+    "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.98%",
     "time": 716,
-    "timeDay": 360,
+    "timeDay": 321,
     "timeWeek": 357,
     "timeMonth": 321,
     "timeYear": 761,
@@ -82,8 +82,7 @@
       "2024-02-19": 314,
       "2024-02-13": 87,
       "2024-02-08": 137,
-      "2024-02-06": 402,
-      "2024-02-04": 474
+      "2024-02-06": 402
     }
   },
   {
@@ -92,16 +91,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
     "status": "up",
-    "uptime": "76.29%",
+    "uptime": "76.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.30%",
-    "time": 2391,
-    "timeDay": 1849,
-    "timeWeek": 1966,
-    "timeMonth": 2134,
-    "timeYear": 2377,
+    "uptimeYear": "80.57%",
+    "time": 2392,
+    "timeDay": 2239,
+    "timeWeek": 2032,
+    "timeMonth": 2129,
+    "timeYear": 2376,
     "dailyMinutesDown": {
       "2024-12-06": 20,
       "2024-09-15": 1236,
@@ -174,8 +173,7 @@
       "2024-02-08": 1440,
       "2024-02-07": 1433,
       "2024-02-06": 1440,
-      "2024-02-05": 1431,
-      "2024-02-04": 1440
+      "2024-02-05": 1431
     }
   }
 ]
