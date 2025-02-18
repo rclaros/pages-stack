@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 109,
-    "timeDay": 81,
-    "timeWeek": 101,
+    "time": 108,
+    "timeDay": 82,
+    "timeWeek": 94,
     "timeMonth": 111,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 44,
-    "timeWeek": 171,
-    "timeMonth": 169,
+    "timeDay": 113,
+    "timeWeek": 123,
+    "timeMonth": 166,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotech.com.pe.ico",
     "slug": "sotech",
     "status": "up",
-    "uptime": "94.22%",
+    "uptime": "94.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.19%",
-    "time": 750,
-    "timeDay": 238,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 758,
+    "time": 749,
+    "timeDay": 247,
+    "timeWeek": 307,
+    "timeMonth": 320,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2024-12-06": 17,
       "2024-07-08": 870,
@@ -78,8 +78,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1434,
       "2024-02-21": 1236,
-      "2024-02-20": 714,
-      "2024-02-19": 314
+      "2024-02-20": 714
     }
   },
   {
@@ -88,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
     "status": "up",
-    "uptime": "76.72%",
+    "uptime": "76.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.37%",
+    "uptimeYear": "84.63%",
     "time": 2393,
-    "timeDay": 1793,
-    "timeWeek": 2012,
-    "timeMonth": 2107,
-    "timeYear": 2272,
+    "timeDay": 1768,
+    "timeWeek": 1914,
+    "timeMonth": 2103,
+    "timeYear": 2289,
     "dailyMinutesDown": {
       "2024-12-06": 20,
       "2024-09-15": 1236,
@@ -155,8 +154,7 @@
       "2024-05-01": 1438,
       "2024-03-25": 88,
       "2024-02-21": 1435,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   }
 ]
