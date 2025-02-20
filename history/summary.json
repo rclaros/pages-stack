@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 72,
-    "timeWeek": 91,
+    "timeDay": 100,
+    "timeWeek": 92,
     "timeMonth": 111,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 79,
-    "timeWeek": 126,
-    "timeMonth": 159,
-    "timeYear": 225,
+    "timeDay": 58,
+    "timeWeek": 106,
+    "timeMonth": 152,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotech.com.pe.ico",
     "slug": "sotech",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.19%",
-    "time": 748,
-    "timeDay": 324,
-    "timeWeek": 314,
-    "timeMonth": 321,
-    "timeYear": 754,
+    "uptimeYear": "94.25%",
+    "time": 747,
+    "timeDay": 347,
+    "timeWeek": 302,
+    "timeMonth": 323,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2024-12-06": 17,
       "2024-07-08": 870,
@@ -76,8 +76,7 @@
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
-      "2024-03-11": 1434,
-      "2024-02-21": 1236
+      "2024-03-11": 1434
     }
   },
   {
@@ -86,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
     "status": "up",
-    "uptime": "76.78%",
+    "uptime": "76.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.90%",
+    "uptimeYear": "85.17%",
     "time": 2392,
-    "timeDay": 1717,
-    "timeWeek": 1890,
-    "timeMonth": 2088,
+    "timeDay": 2211,
+    "timeWeek": 1858,
+    "timeMonth": 2101,
     "timeYear": 2288,
     "dailyMinutesDown": {
       "2024-12-06": 20,
@@ -151,8 +150,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1438,
-      "2024-03-25": 88,
-      "2024-02-21": 1435
+      "2024-03-25": 88
     }
   }
 ]
