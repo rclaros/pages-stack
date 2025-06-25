@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
     "timeDay": 232,
     "timeWeek": 175,
     "timeMonth": 141,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2025-06-25": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -42,9 +40,9 @@
     "url": "https://sotech.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/sotech.com.pe.ico",
     "slug": "sotech",
-    "status": "up",
+    "status": "down",
     "uptime": "95.01%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.77%",
@@ -54,6 +52,7 @@
     "timeMonth": 362,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2025-06-25": 0,
       "2024-12-06": 17,
       "2024-07-08": 870,
       "2024-07-07": 1440,
