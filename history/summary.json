@@ -81,9 +81,9 @@
     "url": "https://sotechcloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
-    "status": "up",
-    "uptime": "85.43%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "85.44%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -103,7 +103,8 @@
       "2026-04-21": 22,
       "2026-04-22": 23,
       "2026-04-30": 31,
-      "2026-05-17": 48
+      "2026-05-17": 48,
+      "2026-06-20": 0
     }
   }
 ]
