@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 161,
-    "timeDay": 64,
-    "timeWeek": 80,
+    "timeDay": 78,
+    "timeWeek": 79,
     "timeMonth": 75,
     "timeYear": 183,
     "dailyMinutesDown": {
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 71,
-    "timeWeek": 187,
-    "timeMonth": 203,
-    "timeYear": 210,
+    "time": 201,
+    "timeDay": 41,
+    "timeWeek": 181,
+    "timeMonth": 198,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2026-02-25": 24
     }
@@ -50,16 +50,16 @@
     "url": "https://sotech.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/sotech.com.pe.ico",
     "slug": "sotech",
-    "status": "up",
+    "status": "down",
     "uptime": "96.37%",
-    "uptimeDay": "89.51%",
-    "uptimeWeek": "96.97%",
+    "uptimeDay": "89.48%",
+    "uptimeWeek": "96.96%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.57%",
-    "time": 615,
-    "timeDay": 367,
-    "timeWeek": 457,
-    "timeMonth": 896,
+    "time": 614,
+    "timeDay": 348,
+    "timeWeek": 447,
+    "timeMonth": 889,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2025-08-02": 120,
@@ -76,7 +76,8 @@
       "2026-05-17": 48,
       "2026-07-16": 48,
       "2026-07-23": 154,
-      "2026-07-24": 151
+      "2026-07-24": 151,
+      "2026-07-25": 0
     }
   },
   {
@@ -84,17 +85,17 @@
     "url": "https://sotechcloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/sotechcloud.com.ico",
     "slug": "sotechcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "85.79%",
-    "uptimeDay": "89.54%",
-    "uptimeWeek": "96.98%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "96.97%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.84%",
-    "time": 1685,
-    "timeDay": 379,
-    "timeWeek": 407,
-    "timeMonth": 824,
-    "timeYear": 1338,
+    "time": 1682,
+    "timeDay": 361,
+    "timeWeek": 402,
+    "timeMonth": 818,
+    "timeYear": 1332,
     "dailyMinutesDown": {
       "2025-08-02": 96,
       "2025-10-08": 19,
@@ -110,7 +111,8 @@
       "2026-06-20": 18,
       "2026-07-16": 47,
       "2026-07-23": 154,
-      "2026-07-24": 151
+      "2026-07-24": 151,
+      "2026-07-25": 0
     }
   }
 ]
