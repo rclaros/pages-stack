@@ -52,12 +52,12 @@
     "slug": "sotech",
     "status": "down",
     "uptime": "96.36%",
-    "uptimeDay": "89.56%",
-    "uptimeWeek": "95.48%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.55%",
+    "uptimeDay": "82.51%",
+    "uptimeWeek": "94.47%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.53%",
     "time": 614,
-    "timeDay": 364,
+    "timeDay": 328,
     "timeWeek": 407,
     "timeMonth": 832,
     "timeYear": 684,
@@ -78,7 +78,7 @@
       "2026-07-23": 154,
       "2026-07-24": 151,
       "2026-07-25": 150,
-      "2026-07-26": 0
+      "2026-07-26": 102
     }
   },
   {
@@ -88,12 +88,12 @@
     "slug": "sotechcloud",
     "status": "down",
     "uptime": "85.79%",
-    "uptimeDay": "89.60%",
-    "uptimeWeek": "95.49%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "82.55%",
+    "uptimeWeek": "94.48%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.79%",
     "time": 1660,
-    "timeDay": 295,
+    "timeDay": 248,
     "timeWeek": 365,
     "timeMonth": 762,
     "timeYear": 1314,
@@ -114,7 +114,7 @@
       "2026-07-23": 154,
       "2026-07-24": 151,
       "2026-07-25": 150,
-      "2026-07-26": 0
+      "2026-07-26": 102
     }
   }
 ]
