@@ -54,17 +54,17 @@
     "url": "https://sotech.com.pe",
     "icon": "https://icons.duckduckgo.com/ip3/sotech.com.pe.ico",
     "slug": "sotech",
-    "status": "down",
+    "status": "up",
     "uptime": "96.41%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.26%",
     "time": 719,
-    "timeDay": 19445,
-    "timeWeek": 4050,
-    "timeMonth": 1199,
-    "timeYear": 800,
+    "timeDay": 9949,
+    "timeWeek": 3536,
+    "timeMonth": 1177,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2025-09-18": 951,
       "2025-09-17": 308,
@@ -90,7 +90,7 @@
       "2026-08-07": 58,
       "2026-08-13": 593,
       "2026-08-22": 21,
-      "2026-09-14": 1
+      "2026-09-14": 21
     }
   },
   {
